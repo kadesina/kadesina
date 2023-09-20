@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kenny Adesina
-- 👀 I’m interested in becoming a Cloud Engineer 
+- 👀 I’m interested in becoming a Cloud Engineer also working on my gain valuable security skills \
 - 🌱 I’m currently learning Python Scripting, Terraform, Aws
 - 💞️ I’m looking to collaborate on any platform 
 - 📫 How to reach me ...  https://www.linkedin.com/in/kehinde-adesina-9a387bb4/
