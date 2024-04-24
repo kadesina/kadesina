@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Kenny Adesina
-- 👀 I’m interested in becoming a Cloud Engineer also working on my gain valuable security skills \
-- 🌱 I’m currently learning Python Scripting, Terraform, Aws
-- 💞️ I’m looking to collaborate on any platform 
-- 📫 How to reach me ...  https://www.linkedin.com/in/kehinde-adesina-9a387bb4/
+# Hello, I'm Kehinde Adesina
+<a href="https://www.linkedin.com/in/kehinde-adesina-9a387bb4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+I am a recent graduate with a strong interest in security operations and a dedication to solving complex problems.
+I am currently working on a Blueteam level 1 certification to gain practical experience using real worl security tools. 
+
+
+
+
 
 <!---
 kadesina/kadesina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
