@@ -7,7 +7,7 @@ I am currently working on a Blueteam level 1 certification to gain practical exp
 
 ## Objective 
 
-My Journey in the IT field has allowed me to gain a passsion for keeping bad actors out. I am eager to make a transistion into the security operations field where I can use my skills to defend against hackers as a SOC analyst. 
+My Journey in the IT field has allowed me to gain a passion for keeping bad actors out. I am eager to make a transistion into the security operations field where I can use my skills to defend against hackers as a SOC analyst. 
 
 
 
