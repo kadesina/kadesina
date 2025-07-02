@@ -9,7 +9,7 @@ IT professional with a Bachelor's in Networking and Security and solid experienc
 <h2>👨🏿‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory </b>
-  - [Intro](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Intro](https://github.com/kadesina/Intro)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
