@@ -4,15 +4,25 @@
 
 ## About me 
 
-IT professional with a Bachelor's in Networking and Security and solid experience delivering reliable Level 2 support. I'm currently expanding my skill set in digital forensics and security operations (SOC), with the goal of transitioning into a cybersecurity-focused role. Passionate about continuous learning, solving real-world security challenges, and connecting with professionals who are making an impact in the field. Actively seeking opportunities where I can grow, contribute, and help strengthen organizational security.
+IT professional with a Bachelor's degree in Networking and Security and solid experience delivering reliable Level 2 support.
+I’m currently expanding my skill set in digital forensics and Security Operations Center (SOC) workflows, with the goal of transitioning into a cybersecurity-focused role.
+
+This page will showcase hands-on projects that support my continuous learning and technical growth.
+I'm always open to feedback, collaboration, or advice — feel free to reach out via LinkedIn. Thank you!
 
 <h2>👨🏿‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory </b>
   - [Intro](https://github.com/kadesina/Intro)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Part 1 Building a logical diagram for visiaulaization]()
+  - [Part 2 Setting up the cloud environment]()
+  - [Part 3 Install and Setup Active Directory ]()
+  - [Part 4 Configure Splunk and Create Alerts]()
+  - [Part 5 Integrate Slack & Shuffle for Automation]()
+
+
+- <b>Phishing Analysis </b> (Project in progress...)
+  - [](https://github.com/kadesina/Intro)
 <!---
 kadesina/kadesina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
