@@ -14,7 +14,7 @@ I'm always open to feedback, collaboration, or advice — feel free to reach out
 
 - <b>Active Directory </b>
   - [Intro](https://github.com/kadesina/Intro)
-  - [Part 1 Building a logical diagram for visualization]()
+  - [Part 1 Building a logical diagram for visualization](https://github.com/kadesina/Part1)
   - [Part 2 Setting up the cloud environment]()
   - [Part 3 Install and Setup Active Directory ]()
   - [Part 4 Configure Splunk and Create Alerts]()
