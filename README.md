@@ -1,11 +1,11 @@
-# Hello, I'm Kehinde Adesina <a href="https://www.linkedin.com/in/kehinde-adesina-9a387bb4/">Cybersecurity Professional</a>
+# Hello, I'm Kehinde Adesina 
+
+<a> Cybersecurity Professional | IAM | Okta </a>
 
 <a href="https://www.linkedin.com/in/kehinde-adesina-9a387bb4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About me 
 
-IT professional with a Bachelor's degree in Networking and Security and solid experience delivering reliable Level 2 support.
-I’m currently expanding my skill set in digital forensics and Security Operations Center (SOC) workflows, with the goal of transitioning into a cybersecurity-focused role.
 
 This page will showcase hands-on projects that support my continuous learning and technical growth.
 I'm always open to feedback, collaboration, or advice — feel free to reach out via LinkedIn. Thank you!
