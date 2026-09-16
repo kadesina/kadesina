@@ -6,9 +6,13 @@
 
 Welcome! This repository documents a hands on project building a production grade Identity and Access Management (IAM) environment. While I have experience with enterprise identity solutions like Okta, Active Directory, and JumpCloud, this project focuses on designing and deploying an end-to-end IAM architecture using Keycloak an industry standard open source identity and access management solution.
 
+## 🛠️ Tools
+
+- 🐳 **Docker** — Containerization
+- 🔐 **Keycloak** — Identity & Access Management (IAM)
 
 
-<h2>👨🏿‍💻 Cybersecurity Projects:</h2>
+<h2>👨🏿‍💻 Cybersecurity Project:</h2>
 
 - <b> KeyCloak </b>
   - [IAM Diagram and Workflow](https://github.com/kadesina/Intro)
